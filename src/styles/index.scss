@@ -1,0 +1,16 @@
+@import './transition.scss';
+a{
+    text-decoration: none;
+    color: #606266;
+}
+a:hover{
+    color: #66b1ff;
+}
+html,body{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+ul li{
+    list-style: none;
+}
